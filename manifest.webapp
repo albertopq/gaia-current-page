@@ -5,7 +5,7 @@
     "name": "Alberto Pastor"
   },
   "role": "addon",
-  "type": "hosted",
+  "type": "certified",
   "package_path": "current-page.zip",
   "customizations": [{
     "filter": "system.gaiamobile.org",
@@ -14,6 +14,5 @@
   }],
   "icons": {
     "128": "/icons/128.png"
-  },
-  "url": "https://albertopq.github.io/gaia-current-page"
+  }
 }
